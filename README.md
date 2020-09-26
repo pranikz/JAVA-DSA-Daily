@@ -8,3 +8,7 @@ Updating daily learning on Data Structures and Algorithms using Java 11 (Open JD
 ## [Day2](https://www.github.com/pranikz/JAVA-DSA-Daily/tree/master/day%202)
 - learnt the procedure how selection sort works and its complexity
 - learnt the procedure how insertion sort works and its complexity
+
+## [Day3](https://www.github.com/pranikz/JAVA-DSA-Daily/tree/master/day%203)
+- learnt how recursion works by taking the example of factorial
+- learnt about the Shell sort and its complexity
