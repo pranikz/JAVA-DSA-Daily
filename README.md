@@ -15,3 +15,4 @@ Updating daily learning on Data Structures and Algorithms using Java 11 (Open JD
 
 ## [Day4](https://www.github.com/pranikz/JAVA-DSA-Daily/tree/master/day%204)
 - learnt about the quick sort and its complexity
+- learnt about the merge sort and its complexity
