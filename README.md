@@ -12,3 +12,6 @@ Updating daily learning on Data Structures and Algorithms using Java 11 (Open JD
 ## [Day3](https://www.github.com/pranikz/JAVA-DSA-Daily/tree/master/day%203)
 - learnt how recursion works by taking the example of factorial
 - learnt about the Shell sort and its complexity
+
+## [Day4](https://www.github.com/pranikz/JAVA-DSA-Daily/tree/master/day%204)
+- learnt about the quick sort and its complexity
